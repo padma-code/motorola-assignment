@@ -17,7 +17,7 @@ public class RemoveDuplicateElements {
 	return null;
 	}
 	
-	
+	//the t push
 	public static void main(String args[]) {
 		Integer arr[] = {1,10,2,2,10,3,3,3,4,5,5};  
 		List<Integer> listofInteger=Arrays.asList(arr);

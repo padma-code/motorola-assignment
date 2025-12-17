@@ -9,7 +9,7 @@ public class RepeatCharacters {
 		countOfDuplicates("abc");
 		//bfxfchgc
 	}
-	
+	//gdjgcjh
 	public static void countOfDuplicates(String input) {
 		
 		StringBuffer sb=new StringBuffer();
