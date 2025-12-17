@@ -7,6 +7,7 @@ public class RepeatCharacters {
 		
 		countOfDuplicates("aabccccccaaa");
 		countOfDuplicates("abc");
+		//bfxfchgc
 	}
 	
 	public static void countOfDuplicates(String input) {
@@ -31,3 +32,4 @@ public class RepeatCharacters {
 	System.out.println(sb.toString());
 	}
 }
+
