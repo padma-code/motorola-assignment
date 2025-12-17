@@ -13,6 +13,7 @@ public class RemoveDuplicateElements {
 	Set<?> removeSet=new LinkedHashSet(input);
 	List<?> outPut=new ArrayList(removeSet);
 	System.out.println(outPut);
+	  //testing the git pull
 	return null;
 	}
 	
@@ -32,3 +33,4 @@ public class RemoveDuplicateElements {
 	
 
 }
+
